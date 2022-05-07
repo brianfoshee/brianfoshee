@@ -1,4 +1,4 @@
-### Hi!
+🧑‍💻 I'm currently working through [@twostraw's](https://github.com/twostraws) [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) in ~50 days, hoping to be done around June 1. Notes are over in [brianfoshee/100-Days-of-SwiftUI](https://github.com/brianfoshee/100-Days-of-SwiftUI). I completed part of the course in the past (the pandemic interrupted progress), hence the 50 day goal.
 
 
 <!--
